@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Halo, Saya Jodi Saputro</h1>
+<h3 align="center">QA Engineer | Automation & API Testing Enthusiast</h3>
 
-<!--
-**Jsaputro/Jsaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 Tentang Saya
+Saya seorang **Quality Assurance Engineer** dengan pengalaman lebih dari 2 tahun dalam:
+- 🧠 **Automation Testing** 
+- 🧪 **API Testing** 
+- ⚙️ **BDD Cucumber** 
+- 🔐 **Security Testing dasar** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya senang memastikan setiap fitur berjalan stabil sebelum sampai ke user akhir 🚀
+
+---
+
+### 🔧 Tools & Teknologi
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
