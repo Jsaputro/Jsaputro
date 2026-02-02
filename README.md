@@ -4,7 +4,7 @@
 ---
 
 ### 🧩 Tentang Saya
-I'm **Quality Assurance Engineer** with 3+ years of experience in ensuring software reliability and performance. Passionate about creating detailed test cases and results to improve company APIs and overall software functionality. 
+I'm **Quality Assurance Engineer** with 4+ years of experience in ensuring software reliability and performance. Passionate about creating detailed test cases and results to improve company APIs and overall software functionality. 
 - 🧠 **Automation Testing** 
 - 🚀 **API Testing** 
 - 🌐 **Web Testing** 
